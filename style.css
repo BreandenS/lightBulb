@@ -1,0 +1,17 @@
+.light-on {
+
+    fill: yellow;
+}
+
+button {
+
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+svg{
+width: 400px; 
+height: auto;
+}
